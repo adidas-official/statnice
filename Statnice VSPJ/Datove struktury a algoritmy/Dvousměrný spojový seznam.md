@@ -1,0 +1,1 @@
+Typ spojového seznamu, obsahuje i [[ukazatel]] na předchozí prvek.

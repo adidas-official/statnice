@@ -1,0 +1,1 @@
+Abstraktní datový typ [[FIFO]].

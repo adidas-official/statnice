@@ -1,0 +1,1 @@
+Aktuální označená pozice, na které se vykonává aktuální operace, například čtení, zápis, vložení atd.

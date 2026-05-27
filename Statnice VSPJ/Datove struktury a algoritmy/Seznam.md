@@ -1,0 +1,1 @@
+Abstraktní datový typ. Jednotlivé položky tvoří řadu prvků. Není důležité, jak jsou fyzicky prvky uloženy, je to jen koncept, kontejner, který obsahuje něco dalšího. Může se seřadit [[řadící algoritmy|řadícím algoritmem]]. 

@@ -1,0 +1,1 @@
+Sekvenční kontejner sloužící k organizaci prvků stejného [[Datový typ|datového typu]]. Má pevnou velikost.

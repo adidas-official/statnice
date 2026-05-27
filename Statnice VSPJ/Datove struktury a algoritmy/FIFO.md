@@ -1,0 +1,1 @@
+First In First Out. Prvky se vkládají na konec a odebírají se z čela.

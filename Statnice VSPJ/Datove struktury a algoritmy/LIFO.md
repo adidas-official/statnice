@@ -1,0 +1,1 @@
+Last In First Out. Prvky se vkládají navrch a odebírají se také odshora.

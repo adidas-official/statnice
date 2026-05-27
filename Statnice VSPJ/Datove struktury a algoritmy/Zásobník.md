@@ -1,0 +1,1 @@
+Typ [[LIFO]]. Abstraktní datový typ.

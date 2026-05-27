@@ -1,0 +1,1 @@
+Definuje pouze syntaxi operací a jejich chování. Nezajímá ho, jak je toho docíleno

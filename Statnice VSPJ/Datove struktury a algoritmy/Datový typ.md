@@ -1,0 +1,1 @@
+Druh hodnot a rozsahů. Typy jsou například INT, String, Float, Double, Bool
