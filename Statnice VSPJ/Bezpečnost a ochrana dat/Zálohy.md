@@ -1,0 +1,4 @@
+- **Cold** – Zcela offline, data většinou na magnetických páskách. Nasazení není možné bez předchozí přípravy.
+- **Cloud** – Data zálohována u třetí strany.
+- **Warm** – Vytváří zálohy průběžně a je možné použít méně výkonný HW. K plné obnově může dojít v průběhu několika dní.
+- **Hot** – Kompletní kopie včetně hardwaru. Možné nasadit okamžitě, bez prodlevy, uživatel si nevšimne změny.

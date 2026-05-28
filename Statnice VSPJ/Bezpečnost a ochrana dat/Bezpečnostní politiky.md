@@ -1,0 +1,4 @@
+- **promiskuitní** – všechno povoleno
+- **liberální** – blacklist
+- **racionální** – whitelist
+- **paranoidní** – všechno zakázáno i za cenu ztráty funkčnosti

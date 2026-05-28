@@ -1,0 +1,1 @@
+Tvorba databáze z [[Konceptuální model|konceptuálního modelu]] na tabulky v databázi pomocí tabulek a klíčů.

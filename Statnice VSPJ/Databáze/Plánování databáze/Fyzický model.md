@@ -1,0 +1,1 @@
+Řeší, jak je databáze fyzicky uložena do souborů na disku na databázovém stroji, řeší indexy, výkon, zabezpečení.

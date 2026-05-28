@@ -1,0 +1,3 @@
+- **Administrativní**: Nemají technologickou ani fyzickou podobu, ale zaměřují se na řízení lidí, procesů a pravidel v organizaci. [[Bezpečnostní politiky]], směrnice, havarijní plány,...
+- **Fyzické**: Učelem je znemožnit útočníkovy fyzický přístup. Ploty, alarmy, bezpečnostní dveře, stráže, kamery.
+- **Logické**: Nástroje pro ověření identity. Autentizační mechanismy, hesla, tokeny. Ochrana dat a systému pomocí Firewallu, segmentace VLAN, IDS/IPS
