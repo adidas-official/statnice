@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "64d1ae7aa5a7daad",
+        "id": "80e42e49332bdd93",
         "type": "tabs",
         "children": [
           {
-            "id": "78b0ce76b197f3c9",
+            "id": "2e6b5b3e5fd78da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bezpečnost a ochrana dat/Bezpečnost a ochrana dat.md",
+                "file": "Webové technologie/Webové technologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bezpečnost a ochrana dat"
+              "title": "Webové technologie"
+            }
+          },
+          {
+            "id": "22d5f04a2bf21bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architektura MVC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architektura MVC"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bezpečnost a ochrana dat/Bezpečnost a ochrana dat.md",
+                "file": "Architektura MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bezpečnost a ochrana dat"
+              "title": "Outgoing links from Architektura MVC"
             }
           },
           {
@@ -194,36 +209,40 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "78b0ce76b197f3c9",
+  "active": "22d5f04a2bf21bdf",
   "lastOpenFiles": [
-    "Revize kódu.md",
-    "Bezpečnost a ochrana dat/Bezpečnost a ochrana dat.md",
-    "Testování bezpečnosti.md",
-    "Databáze/Základní stavební kameny/Základní stavební kameny.md",
-    "Databáze/Databázové systémy.md",
-    "Databáze/Definice databázového systému.md",
-    "Databáze/Základní stavební kameny.md",
-    "Databáze/Arita.md",
+    "Architektura MVC.md",
+    "Webové technologie/Webové technologie.md",
+    "Webové technologie/jQuery.md",
+    "AJAX.md",
+    "Tvorba webových stránek/Zabezpečení webových stránek.md",
+    "Tvorba webových stránek/Tvorba webových stránek.md",
+    "Tvorba webových stránek/Kaskádové styly.md",
+    "Tvorba webových stránek/Formuláře.md",
+    "Tvorba webových stránek/HTML5.md",
+    "Webové technologie",
+    "Návrh uživatelských rozhraní",
+    "Tvorba webových stránek/PHP.md",
+    "Tvorba webových stránek/WWW stránky.md",
+    "Bezpečnost a ochrana dat/Testování bezpečnosti.md",
+    "Bezpečnost a ochrana dat/Revize kódu.md",
+    "Databáze/Základní stavební kameny/Kardinalita.md",
+    "Tvorba webových stránek",
+    "Databáze/Základní stavební kameny/Arita.md",
+    "Databáze/Základní stavební kameny/Entita.md",
+    "Pasted image 20260529091921.png",
     "Databáze/Plánování databáze/Plánování databáze.md",
+    "Databáze/Plánování databáze/Pasted image 20260528075636.png",
     "Databáze/Plánování databáze/Logický model.md",
     "Databáze/Plánování databáze/Konceptuální model.md",
     "Databáze/Plánování databáze/Fyzický model.md",
     "Databáze/Plánování databáze/ER Model.md",
-    "Bezpečnost a ochrana dat/A5.md",
-    "Bezpečnost a ochrana dat/Chyby v programech.md",
-    "gemini-scribe/Prompts/example-expert.md",
-    "Bezpečnost a ochrana dat/Malware.md",
-    "Bezpečnost a ochrana dat/Bezpečnostní politiky.md",
-    "Bezpečnost a ochrana dat/Certifikáty.md",
-    "Bezpečnost a ochrana dat/DES.md",
-    "Bezpečnost a ochrana dat/Kryptografie.md",
-    "Bezpečnost a ochrana dat/Typy bezpečnostních funkcí.md",
-    "Bezpečnost a ochrana dat/Zajištění důvěrnosti.md",
-    "Bezpečnost a ochrana dat/Zálohy.md",
-    "Umela inteligence/Inteligentní agent.md",
-    "Bezpečnost a ochrana dat/RC4.md",
+    "Bezpečnost a ochrana dat/Bezpečnost a ochrana dat.md",
+    "Databáze/Základní stavební kameny/Základní stavební kameny.md",
+    "Databáze/Databázové systémy.md",
+    "Databáze/Definice databázového systému.md",
+    "Databáze/Základní stavební kameny.md",
     "Bezpečnost a ochrana dat/Pasted image 20260528215707.png",
-    "Databáze/Plánování databáze/Pasted image 20260528075636.png",
     "Bezpečnost a ochrana dat",
     "Databáze/Plánování databáze",
     "Databáze/Základní stavební kameny",
@@ -231,9 +250,6 @@
     "Umela inteligence",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Scheduled-Tasks",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Prompts",
     "Datove struktury a algoritmy/images/Pasted image 20260525230034.png",
     "Datove struktury a algoritmy/images/Pasted image 20260525223611.png",
     "Datove struktury a algoritmy/images/Pasted image 20260525220233.png",
