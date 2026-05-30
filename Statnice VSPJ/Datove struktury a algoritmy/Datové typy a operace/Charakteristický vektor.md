@@ -1,0 +1,5 @@
+- Speciální typ [[Vektor|vektoru]].
+- Seřazená sekvence pravdivostních hodnot `T,T,F,T,F,F,F,T,F,T,F,F,T,T,T,F,T,...`
+- Prvek existuje pokud je hodnota T.
+- Používá se pro implementaci [[Abstraktní datový typ|ADT]] [[Množina]].
+- Pro uložení dat v paměti používá samotný index, pořadí prvku.

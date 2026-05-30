@@ -1,0 +1,2 @@
+- Dynamické [[Pole]].
+- Má proměnnou velikost. Mění se za běhu programu.

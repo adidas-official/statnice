@@ -12,3 +12,4 @@
 - [[Časová složitost]]
 - [[Halda]]
 - [[Průchody stromem]]
+- [[Vektor]]
