@@ -1,0 +1,2 @@
+- [[Asociativní metody vyhledávání|Asociativní]]
+- [[Adresní metody vyhledávání|Adresní]]

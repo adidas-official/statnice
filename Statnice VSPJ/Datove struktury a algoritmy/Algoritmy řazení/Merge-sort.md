@@ -2,10 +2,13 @@
 tags:
   - algoritmus
   - řazení
+name: Řazení slučováním
 ---
 ![[Pasted image 20260530124017.png]]
 Zdroj: [geeksforgeeks.org](https://www.geeksforgeeks.org/dsa/merge-sort/)
 # Popis
+Využívá strategii rozděl a panuj. Úsek pole se rozdělí na dvě části a každá se seřadí samostatně. Seřazené úseky se potom sloučí do jednoho celku.
+
 --- 
 # Implementace
 ```C
@@ -96,7 +99,7 @@ int main(){
 
 --- 
 # Časová složitost
-O (n log n)
+O (n log n), ale nevýhodou je, že potřebuje pomocné pole, proto paměťová složitost je O (n).
 
 ---
 

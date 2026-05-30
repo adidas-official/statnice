@@ -1,0 +1,1 @@
+[[Datová struktura]] binární strom je tvořen kořenem, levou větví a pravou větví. 

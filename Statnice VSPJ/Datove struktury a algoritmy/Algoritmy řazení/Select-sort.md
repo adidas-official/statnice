@@ -40,7 +40,7 @@ void selection_sort (int A[ ], int n) {
 
 --- 
 # Časová složitost
-O(n²)
+V nejlepším případě O(n²)
 
 ---
 

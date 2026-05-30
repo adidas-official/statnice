@@ -1,0 +1,1 @@
+Speciální varianta [[Binární strom|binárního stromu]]. Klíče musí být uspořádány v takovém pořadí, kdy vše, od kořene vlevo je menší než kořen, vše vpravo je větší.

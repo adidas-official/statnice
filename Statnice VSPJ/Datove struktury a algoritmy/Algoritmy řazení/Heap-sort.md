@@ -4,8 +4,8 @@ tags:
   - řazení
 name: Řazení haldou
 ---
-![[Pasted image 20260530122914.png]]
-Zdroj: [Hackerearth.com](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/tutorial/)
+![[Heap_sort_example.gif]]
+Zdroj: [wikipedia.org](https://commons.wikimedia.org/wiki/File:Heap_sort_example.gif)
 # Popis
 Využívá se speciální stromová [[Datová struktura|datovou strukturu]] [[Halda#Max Heap - Maximální halda.|maximální haldu]], kterou vytvoří v nesetříděném poli. Vlastní řazení pak probíhá tak, že se opakovaně vymění kořen haldy (absolutně největší prvek) s posledním prvkem haldy, samotná halda se o jeden prvek zmenší a zbytek pole se shora dolů opraví, aby byla obnovena haldová vlastnost. 
 

@@ -2,10 +2,13 @@
 tags:
   - algoritmus
   - řazení
+name: Řazení dělením
 ---
 ![[Pasted image 20260530124654.png]]
 Zdroj: [favtutor.com](https://favtutor.com/blogs/quick-sort-cpp)
 # Popis
+Používá princip rozděl a panuj. Z řazeného úseku se vybere pivot (vhodná hodnota klíče). Zbytek prvků se přeskupí na 3 části: prvky větší, rovny a menší než pivot. Levé a pravé podpole se rekurzivně seřadí stejným způsobem. 
+
 --- 
 # Implementace
 ```C
@@ -74,7 +77,9 @@ int main() {
 
 --- 
 # Časová složitost
-O (n log n)
+O (n log n) v nejlepším a průměrném případě.
+Při nevhodné volbě pivota může degradovat až na O (n²).
+Je nestabilní a má paměťovou složitost O (log n). Zásobník si musí ukládat meze nezpracovaných úseků.
 
 ---
 
