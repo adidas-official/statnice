@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "647704989e2e13ad",
+            "id": "6381c7407c6c0d0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarové inženýrství/Procesy a požadavky.md",
+                "file": "Programovací jazyky a překladače/Programovací jazyky a překladače.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Procesy a požadavky"
+              "title": "Programovací jazyky a překladače"
+            }
+          },
+          {
+            "id": "fa8a29133cf7d1f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bezkontextové jazyky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bezkontextové jazyky"
+            }
+          },
+          {
+            "id": "336e965428fe2af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programovací jazyky a překladače/Chomského hierarchie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chomského hierarchie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,52 +223,53 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "647704989e2e13ad",
+  "active": "fa8a29133cf7d1f7",
   "lastOpenFiles": [
+    "Programovací jazyky a překladače/Chomského hierarchie.md",
+    "Bezkontextové jazyky.md",
+    "Programovací jazyky a překladače/Programovací jazyky a překladače.md",
+    "Rekurzivně spočetné jazyky.md",
+    "Programovací jazyky a překladače/Konečné automaty.md",
+    "Regulární jazyky.md",
+    "Kontextové jazyky.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Gramatika.md",
+    "Programovací jazyky a překladače/Lineárně ohraničené automaty.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Kontextová gramatika.md",
+    "Programovací jazyky a překladače/Automaty.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Formální jazyk.md",
+    "Programovací jazyky a překladače/Zásobníkové automaty.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Rekurzivně spočetné gramatiky.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Regulární gramatika.md",
+    "Programovací jazyky a překladače/Formální jazyky",
+    "Programovací jazyky a překladače/Turingův stroj.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Bezkontextová gramatika.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky",
+    "Softwarové inženýrství/Procesy a požadavky.md",
+    "Programovací jazyky a překladače",
     "Softwarové inženýrství/Softwarové inženýrství.md",
     "Softwarové inženýrství/Softwarové profese a týmy.md",
     "Softwarové inženýrství/Softwarový proces.md",
     "Softwarové inženýrství/Ganttův diagram.md",
-    "Softwarové inženýrství/Procesy a požadavky.md",
     "Softwarové inženýrství/PERT.md",
     "Softwarové inženýrství/Plánování softwarových projektů.md",
     "Softwarové inženýrství/Odhad nákladů.md",
     "Softwarové inženýrství/Objektová analýza a UML.md",
-    "Softwarové inženýrství/Architektura software.md",
-    "Softwarové inženýrství/Analýza požadavků.md",
     "Softwarové inženýrství/_images/Pasted image 20260601222426.png",
     "Softwarové inženýrství/_images/Pasted image 20260601230456.png",
     "Softwarové inženýrství/_images/Pasted image 20260601230556.png",
     "Softwarové inženýrství/_images/Pasted image 20260601223830.png",
-    "Softwarové inženýrství/Techniky zobrazení plánů.md",
     "Pasted image 20260601222538.png",
     "Softwarové inženýrství/_images/Pasted image 20260601222714.png",
     "Softwarové inženýrství/_images",
     "Softwarové inženýrství",
-    "Datove struktury a algoritmy/Vyhledávání/Metody vyhledávání.md",
-    "Datove struktury a algoritmy/Vyhledávání/Asociativní metody vyhledávání.md",
-    "Datove struktury a algoritmy/Datové typy a operace/Binární strom.md",
-    "Datove struktury a algoritmy/Vyhledávání/Binární vyhledávací strom.md",
-    "Datove struktury a algoritmy/Složitost algoritmů/Časová složitost.md",
-    "Datove struktury a algoritmy/Vyhledávání/Adresní metody vyhledávání.md",
-    "Datove struktury a algoritmy/Složitost algoritmů/Paměťová složitost.md",
     "Datove struktury a algoritmy/Vyhledávání",
-    "Datove struktury a algoritmy/Složitost algoritmů/Složitost algoritmů.md",
-    "Datove struktury a algoritmy/Složitost algoritmů/Složitost algoritmů (Complexity).md",
     "Datove struktury a algoritmy/Algoritmy řazení/_images/Pasted image 20260530124654.png",
     "Pasted image 20260530173032.png",
-    "Datove struktury a algoritmy/Algoritmy řazení/Algoritmy řazení.md",
-    "Datove struktury a algoritmy/Algoritmy řazení/Merge-sort.md",
     "Datove struktury a algoritmy/Složitost algoritmů",
-    "Datove struktury a algoritmy/Algoritmy řazení/Heap-sort.md",
     "Datove struktury a algoritmy/Algoritmy řazení/_images/Heap_sort_example.gif",
     "Datove struktury a algoritmy/Algoritmy řazení/_images/Unconfirmed 857101.crdownload",
-    "Datove struktury a algoritmy/Algoritmy řazení/Insert-sort.md",
     "Datove struktury a algoritmy/Algoritmy řazení/_images/Pasted image 20260530121705.png",
     "Datove struktury a algoritmy/Algoritmy řazení/_images",
-    "Datove struktury a algoritmy/Algoritmy řazení",
-    "Datove struktury a algoritmy/Datové typy a operace",
-    "Webové technologie",
-    "Návrh uživatelských rozhraní"
+    "Datove struktury a algoritmy/Algoritmy řazení"
   ]
 }

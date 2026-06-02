@@ -1,0 +1,1 @@
+Pravidla, jak skládat symboly do slov a slova do vět v jazyce.

@@ -1,0 +1,2 @@
+- Typ 1 v [[Chomského hierarchie|Chomského hierarchii]]
+- Pravidla jejich [[Gramatika|gramatiky]] říkají, že symbol se může přepsat na něco jiného pouze v případě, že sousedí s něčím konkrétním. Závisí na kontextu.

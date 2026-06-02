@@ -1,0 +1,2 @@
+- Typ 0 v [[Chomského hierarchie|Chomského hierarchii]]
+- Vše, co kdy lidstvo popsalo nějakým [[Algoritmus|algoritmem]] a dokáže to zpracovat [[Turingův stroj]]

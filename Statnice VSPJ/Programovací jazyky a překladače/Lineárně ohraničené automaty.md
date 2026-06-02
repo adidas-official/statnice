@@ -1,0 +1,5 @@
+- Pro [[kontextové jazyky]]
+- Mají paměť omezenou na délku vstupního slova
+
+---
+Zpět na [[Automaty]]
