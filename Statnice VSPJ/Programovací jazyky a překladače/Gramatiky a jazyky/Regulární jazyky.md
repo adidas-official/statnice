@@ -1,3 +1,3 @@
 - Nejjednodušší jazyky s nejpřísnějšími [[Gramatika|gramatickými pravidly]]
 - [[Konečné automaty|Konečný automat]] bez paměti stačí pro tvorbu regulárního jazyka
-- Například [[regulární výrazy]], které validují email
+- Například [[Regulární výrazy]], které validují email

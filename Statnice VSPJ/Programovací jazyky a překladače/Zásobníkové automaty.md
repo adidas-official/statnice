@@ -1,4 +1,4 @@
-- Pro [[bezkontextové jazyky]]
+- Pro [[Bezkontextové jazyky]]
 - Mají paměť typu [[Zásobník]]
 - Umožňují kontrolu například párování závorek
 

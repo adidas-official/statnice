@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "fa8a29133cf7d1f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bezkontextové jazyky.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bezkontextové jazyky"
-            }
-          },
-          {
             "id": "336e965428fe2af6",
             "type": "leaf",
             "state": {
@@ -48,9 +34,33 @@
               "icon": "lucide-file",
               "title": "Chomského hierarchie"
             }
+          },
+          {
+            "id": "0880185dd8a1356d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programovací jazyky a překladače/LL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LL"
+            }
+          },
+          {
+            "id": "a8e909902a95af5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,26 +233,30 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "fa8a29133cf7d1f7",
+  "active": "a8e909902a95af5b",
   "lastOpenFiles": [
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Bezkontextové jazyky.md",
+    "Programovací jazyky a překladače/LR.md",
+    "Programovací jazyky a překladače/YACC.md",
+    "Programovací jazyky a překladače/LL.md",
     "Programovací jazyky a překladače/Chomského hierarchie.md",
-    "Bezkontextové jazyky.md",
-    "Programovací jazyky a překladače/Programovací jazyky a překladače.md",
-    "Rekurzivně spočetné jazyky.md",
-    "Programovací jazyky a překladače/Konečné automaty.md",
-    "Regulární jazyky.md",
-    "Kontextové jazyky.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Gramatika.md",
-    "Programovací jazyky a překladače/Lineárně ohraničené automaty.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Kontextová gramatika.md",
-    "Programovací jazyky a překladače/Automaty.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Formální jazyk.md",
-    "Programovací jazyky a překladače/Zásobníkové automaty.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Rekurzivně spočetné gramatiky.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Regulární gramatika.md",
-    "Programovací jazyky a překladače/Formální jazyky",
-    "Programovací jazyky a překladače/Turingův stroj.md",
     "Programovací jazyky a překladače/Gramatiky a jazyky/Bezkontextová gramatika.md",
+    "Programovací jazyky a překladače/Automaty.md",
+    "Programovací jazyky a překladače/Zásobníkové automaty.md",
+    "Programovací jazyky a překladače/Turingův stroj.md",
+    "Programovací jazyky a překladače/Regulární výrazy.md",
+    "Programovací jazyky a překladače/Programovací jazyky a překladače.md",
+    "Programovací jazyky a překladače/Lineárně ohraničené automaty.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Kontextové jazyky.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Rekurzivně spočetné jazyky.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Regulární jazyky.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Regulární gramatika.md",
+    "Programovací jazyky a překladače/Konečné automaty.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Gramatika.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Kontextová gramatika.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Formální jazyk.md",
+    "Programovací jazyky a překladače/Gramatiky a jazyky/Rekurzivně spočetné gramatiky.md",
+    "Programovací jazyky a překladače/Formální jazyky",
     "Programovací jazyky a překladače/Gramatiky a jazyky",
     "Softwarové inženýrství/Procesy a požadavky.md",
     "Programovací jazyky a překladače",
@@ -250,10 +264,6 @@
     "Softwarové inženýrství/Softwarové profese a týmy.md",
     "Softwarové inženýrství/Softwarový proces.md",
     "Softwarové inženýrství/Ganttův diagram.md",
-    "Softwarové inženýrství/PERT.md",
-    "Softwarové inženýrství/Plánování softwarových projektů.md",
-    "Softwarové inženýrství/Odhad nákladů.md",
-    "Softwarové inženýrství/Objektová analýza a UML.md",
     "Softwarové inženýrství/_images/Pasted image 20260601222426.png",
     "Softwarové inženýrství/_images/Pasted image 20260601230456.png",
     "Softwarové inženýrství/_images/Pasted image 20260601230556.png",
