@@ -1,0 +1,1 @@
+Typ spojení, ve kterém jsou pakety posílány skupině. Například při streamování.

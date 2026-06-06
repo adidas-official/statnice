@@ -1,0 +1,1 @@
+Extrakce, čištění, transformace a nahrání dat

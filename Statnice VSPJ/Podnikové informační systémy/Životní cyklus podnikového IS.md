@@ -1,0 +1,7 @@
+- Plánování: Co vlastně stavíme. Je to proveditelné
+- Analýza: Identifikace potřeb
+- Návrh: Jak bude vypadat architektura, topologie
+- Implementace: Vytvoření kódu
+- Testování: Ověření, že systém funguje
+- Nasazení/Přechod: Uvedení systému do provozu
+- Údržba a provoz: Někdo se musí o systém starat a opravovat nastalé problémy. Časem vylepšení a rozšíření, optimalizace a stabilizace

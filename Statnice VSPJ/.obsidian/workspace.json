@@ -4,63 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d2850e6d16c2ba1e",
+        "id": "edadec2501a70681",
         "type": "tabs",
         "children": [
           {
-            "id": "6381c7407c6c0d0e",
+            "id": "d79c3617f0602842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programovací jazyky a překladače/Programovací jazyky a překladače.md",
+                "file": "Počítačové sítě/Protokoly/HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programovací jazyky a překladače"
+              "title": "HTTP"
             }
           },
           {
-            "id": "336e965428fe2af6",
+            "id": "045a0861be04aac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programovací jazyky a překladače/Chomského hierarchie.md",
+                "file": "Tvorba webových stránek/Firewall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chomského hierarchie"
-            }
-          },
-          {
-            "id": "0880185dd8a1356d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programovací jazyky a překladače/LL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LL"
-            }
-          },
-          {
-            "id": "a8e909902a95af5b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Firewall"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "csirt.cz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,8 +109,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarové inženýrství/Procesy a požadavky.md",
-                "collapseAll": false,
+                "file": "Tvorba webových stránek/Firewall.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -143,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Procesy a požadavky"
+              "title": "Backlinks for Firewall"
             }
           },
           {
@@ -158,21 +134,6 @@
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Procesy a požadavky"
-            }
-          },
-          {
-            "id": "6f447a2135065af1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
             }
           },
           {
@@ -195,75 +156,104 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datove struktury a algoritmy/Datové typy a operace/Binární strom.md",
+                "file": "Tvorba webových stránek/Firewall.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Binární strom"
+              "title": "Outline of Firewall"
             }
           },
           {
-            "id": "77ba01bb7263b903",
+            "id": "a90fdb11f6ebf1cd",
             "type": "leaf",
             "state": {
-              "type": "gemini-agent-view",
+              "type": "graph",
               "state": {},
-              "icon": "sparkles",
-              "title": "Agent Mode"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "9be791efd7ec6d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f447a2135065af1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false
+      "gemini-scribe:Gemini Scribe: Agent Mode": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "a8e909902a95af5b",
+  "active": "045a0861be04aac6",
   "lastOpenFiles": [
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Bezkontextové jazyky.md",
-    "Programovací jazyky a překladače/LR.md",
-    "Programovací jazyky a překladače/YACC.md",
-    "Programovací jazyky a překladače/LL.md",
-    "Programovací jazyky a překladače/Chomského hierarchie.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Bezkontextová gramatika.md",
-    "Programovací jazyky a překladače/Automaty.md",
-    "Programovací jazyky a překladače/Zásobníkové automaty.md",
-    "Programovací jazyky a překladače/Turingův stroj.md",
-    "Programovací jazyky a překladače/Regulární výrazy.md",
-    "Programovací jazyky a překladače/Programovací jazyky a překladače.md",
-    "Programovací jazyky a překladače/Lineárně ohraničené automaty.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Kontextové jazyky.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Rekurzivně spočetné jazyky.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Regulární jazyky.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Regulární gramatika.md",
-    "Programovací jazyky a překladače/Konečné automaty.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Gramatika.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Kontextová gramatika.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Formální jazyk.md",
-    "Programovací jazyky a překladače/Gramatiky a jazyky/Rekurzivně spočetné gramatiky.md",
+    "Tvorba webových stránek/PHP.md",
+    "Tvorba webových stránek/Firewall.md",
+    "Počítačové sítě/Protokoly/HTTP.md",
+    "Tvorba webových stránek/WWW stránky.md",
+    "Počítačové sítě/Protokoly/UDP.md",
+    "Počítačové sítě/Protokoly/TCP.md",
+    "Počítačové sítě/Protokoly/SMTP.md",
+    "Počítačové sítě/Protokoly/POP3.md",
+    "Počítačové sítě/_přílohy/Pasted image 20260606213714.png",
+    "Počítačové sítě/Protokoly/IMAP.md",
+    "Počítačové sítě/Protokoly/IGMP.md",
+    "Počítačové sítě/Protokoly/ICMP.md",
+    "Počítačové sítě/Protokoly/FTP.md",
+    "Počítačové sítě/Protokoly/DNS.md",
+    "Počítačové sítě/Protokoly/CIDR.md",
+    "Počítačové sítě/Protokoly/ARP.md",
+    "Počítačové sítě/Směrování/Způsoby směrování.md",
+    "Počítačové sítě/IPsec.md",
+    "Počítačové sítě/IP Datagram.md",
+    "Počítačové sítě/Ethernet.md",
+    "Počítačové sítě/Protokoly/Maska sítě.md",
+    "Počítačové sítě/Protokoly/Mapa protokolů.md",
+    "Počítačové sítě/Protokoly/IP Protokol.md",
+    "Počítačové sítě/Protokoly/IP adresa.md",
+    "Bezpečnost a ochrana dat/Kryptografie.md",
+    "Počítačové sítě/Směrování/Broadcast.md",
+    "Počítačové sítě/Směrování/Anycast.md",
+    "Počítačové sítě/Směrování",
+    "Počítačové sítě/_přílohy",
+    "Počítačové sítě/Protokoly",
+    "Počítačové sítě",
+    "Webové technologie/Pasted image 20260529091921.png",
+    "Bezpečnost a ochrana dat/Pasted image 20260528215707.png",
+    "Podnikové informační systémy",
     "Programovací jazyky a překladače/Formální jazyky",
     "Programovací jazyky a překladače/Gramatiky a jazyky",
-    "Softwarové inženýrství/Procesy a požadavky.md",
     "Programovací jazyky a překladače",
-    "Softwarové inženýrství/Softwarové inženýrství.md",
-    "Softwarové inženýrství/Softwarové profese a týmy.md",
-    "Softwarové inženýrství/Softwarový proces.md",
-    "Softwarové inženýrství/Ganttův diagram.md",
     "Softwarové inženýrství/_images/Pasted image 20260601222426.png",
     "Softwarové inženýrství/_images/Pasted image 20260601230456.png",
     "Softwarové inženýrství/_images/Pasted image 20260601230556.png",
@@ -272,14 +262,6 @@
     "Softwarové inženýrství/_images/Pasted image 20260601222714.png",
     "Softwarové inženýrství/_images",
     "Softwarové inženýrství",
-    "Datove struktury a algoritmy/Vyhledávání",
-    "Datove struktury a algoritmy/Algoritmy řazení/_images/Pasted image 20260530124654.png",
-    "Pasted image 20260530173032.png",
-    "Datove struktury a algoritmy/Složitost algoritmů",
-    "Datove struktury a algoritmy/Algoritmy řazení/_images/Heap_sort_example.gif",
-    "Datove struktury a algoritmy/Algoritmy řazení/_images/Unconfirmed 857101.crdownload",
-    "Datove struktury a algoritmy/Algoritmy řazení/_images/Pasted image 20260530121705.png",
-    "Datove struktury a algoritmy/Algoritmy řazení/_images",
-    "Datove struktury a algoritmy/Algoritmy řazení"
+    "Datove struktury a algoritmy/Algoritmy řazení/_images/Pasted image 20260530124654.png"
   ]
 }

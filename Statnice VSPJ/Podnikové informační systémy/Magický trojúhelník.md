@@ -1,0 +1,1 @@
+Kompromis mezi investovaným časem, rozsahem projektu a jeho kvalitou a mezi náklady

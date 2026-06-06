@@ -1,0 +1,1 @@
+Bezpečnostní protokol pro šifrování a ověřování datové komunikace. Používá se hlavně ve [[VPN]] pro zajištění důvěrnosti (šifrovaný tunel) a je zabudován do [[IP adresa#Verze IPv6|IPv6 protokolu]]

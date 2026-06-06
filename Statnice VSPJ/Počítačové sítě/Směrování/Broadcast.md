@@ -1,0 +1,1 @@
+Doručení všem v lokální síti. Pouze v [[IP adresa#Verze IPv4|IPv4]]. Ping na broadcast používá přepínač **-b**.

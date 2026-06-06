@@ -1,0 +1,12 @@
+Protokol je soubor pravidel komunikace v síti. Mezi hlavní protokoly na internetu patří:
+- [[ICMP]]
+- [[IGMP]]
+- [[DNS]]
+- [[HTTP]]
+- [[ARP]]
+- [[FTP]]
+- [[SMTP]]
+- [[IMAP]]
+- [[POP3]]
+- [[TCP]]
+- [[UDP]]

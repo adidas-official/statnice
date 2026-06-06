@@ -34,7 +34,7 @@ Zpráva je přenášena nezabezpečeným mediem (přes internet, signál může 
 Shorův algoritmus, představený v roce 1994, prokázal, že kvantové počítače budou schopny v principu prolomit asymetrickou kryptografii RSA pomocí efektivní faktorizace velkých celých čísel. Z tohoto důvodu některé vládní organizace a další subjekty již v současnosti aplikují strategii známou pod názvem _Store now, decrypt later_ (Ulož nyní, dešifruj později).
 
 Tento postup spočívá ve shromažďování a archivaci šifrovaných dat, přestože je současné technologie nedokážou prolomit. Jakmile budou k dispozici dostatečně výkonné kvantové počítače, tyto subjekty archivované zprávy zpětně dešifrují. Vzhledem k tomu, že citlivost a relevance některých informací přetrvává po celá desetiletí, představuje tato strategie dlouhodobé bezpečnostní riziko.
-## tldr;
+## tl;dr:
 - Shorův algoritmus z roku 1994 ukázal, že kvantové počítače by v principu mohly prolomit RSA faktorizaci.
 - Některé vlády a entity proto aplikují proces _Store now, decrypt later_.
 - Dnes zašifrované zprávy shromažďují, i když je nedokáží rozluštit. Až budou mít k dispozici kvantový počítač, mohou zprávy dešifrovat.

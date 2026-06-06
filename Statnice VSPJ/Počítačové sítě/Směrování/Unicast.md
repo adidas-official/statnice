@@ -1,0 +1,1 @@
+Komunikace jeden na jednoho. Jen dvě zařízení spolu komunikují

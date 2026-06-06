@@ -1,0 +1,1 @@
+Rozděluje hranici mezi adresou sítě a adresou zařízení. Může se zapisovat klasickým 32 bitovým zápisem jako `255.255.255.0` nebo pomocí [[CIDR]] formátu.
