@@ -1,0 +1,1 @@
+Fragment je dočasný stav paketu na 3. vrstvě. Pokud má síť limit pro [[MTU]] menší, než je odesílaný [[IP Paket]], dojde na fragmentaci - rozdělení na menší díly.

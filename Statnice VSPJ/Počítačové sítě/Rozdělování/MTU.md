@@ -1,0 +1,1 @@
+Maximum Transmission Unit. Největší povolená délka paketu. [[IP paket]] je rozdělen na [[Fragment|fragmenty]] této délky.

@@ -1,0 +1,1 @@
+Lze buď data přijímat nebo posílat, nikdy ne oboje naráz.

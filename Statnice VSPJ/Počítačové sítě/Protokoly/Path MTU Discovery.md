@@ -1,0 +1,1 @@
+V IPv6 směrovače fragmentaci neprovádějí, musí ji provést odesílatel před zahájením komunikace. K tomu se používá **Path MTU Discovery**, které předem zjistí, jakou maximální hodnotu [[MTU]] mohou rámce po cestě mít pro každý router a globálně se nastaví tato hodnota. 

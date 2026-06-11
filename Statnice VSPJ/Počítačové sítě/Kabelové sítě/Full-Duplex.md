@@ -1,0 +1,1 @@
+Lze odesílat i přijímat data současně, oddělení kanálů.

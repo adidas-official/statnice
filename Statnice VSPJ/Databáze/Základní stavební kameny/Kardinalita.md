@@ -6,7 +6,7 @@ tags:
 ---
 # Kardinalita
 
-Vyjadřuje integritní omezení pro vztahový typ – určuje, s kolika instancemi druhé [[Entita|entity]] může být v [[Relace|relaci]] jedna instance první entity.
+Vyjadřuje integritní omezení pro vztahový typ – určuje, s kolika instancemi druhé [[Entita|entity]] může být v [[Databáze/Základní stavební kameny/Relace|relaci]] jedna instance první entity.
 
 ## Typy kardinality:
 1. **1:1 (jedna k jedné):** Maximálně jeden objekt entity na obou stranách. 
@@ -16,4 +16,5 @@ Vyjadřuje integritní omezení pro vztahový typ – určuje, s kolika instance
 3. **M:N (mnoho k mnoha):** Mnoho objektů první entity může být ve vztahu s mnoha objekty druhé entity.
     * *Příklad:* Každé kino může promítat více filmů a zároveň se každý film může promítat ve více kinech.
 
-Patří mezi [[Základní stavební kameny]].
+---
+Zpět na [[Integritní omezení]]

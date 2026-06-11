@@ -6,7 +6,7 @@
 - [[Fronta]]
 - [[Seznam]]
 - [[Spojový seznam]]
-- [[Množina]]
+- [[Datove struktury a algoritmy/Datové typy a operace/Množina]]
 - [[Tabulka (mapa)]]
 - [[Kurzor]]
 - [[Časová složitost]]

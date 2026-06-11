@@ -1,1 +1,1 @@
-Řeší, jak je databáze fyzicky uložena do souborů na disku na databázovém stroji, řeší indexy, výkon, zabezpečení.
+Řeší, jak je databáze fyzicky uložena do souborů na disku na databázovém stroji, řeší indexy, výkon, zabezpečení. Finálním produktem je SQL pro [[Databázové systémy|Databázový systém]]

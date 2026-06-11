@@ -1,0 +1,23 @@
+DROP TABLE IF EXISTS employee;
+DROP TABLE IF EXISTS project;
+
+CREATE TABLE employee (
+	id SERIAL PRIMARY KEY, 
+	fname VARCHAR(255) NOT NULL,
+	lname VARCHAR(255) NOT NULL,
+	email VARCHAR(255) NULL,
+	project_id INT NOT NULL DEFAULT 0,
+	balance INT NOT NULL DEFAULT 0
+);
+
+CREATE TABLE project (
+	id SERIAL PRIMARY KEY,
+	project_name VARCHAR(255) NOT NULL
+);
+
+ALTER TABLE employee ADD CONSTRAINT fk_project
+	FOREIGN KEY (project_id)
+	REFERENCES project(id)
+	ON DELETE RESTRICT
+;
+

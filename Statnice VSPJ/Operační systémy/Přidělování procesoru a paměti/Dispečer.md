@@ -1,0 +1,1 @@
+Nízkoúrovňová část jádra, která fyzicky mapuje registry a [[PCB]] při střídání procesů. 

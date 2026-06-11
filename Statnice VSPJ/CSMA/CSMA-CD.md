@@ -1,0 +1,1 @@
+Detekce a řešení kolizí. Pokud se vysílá na stejném kanálu, router donutí čekat náhodný počet ms a potom zkusit odeslat znovu.

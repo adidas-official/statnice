@@ -1,4 +1,4 @@
-Směrování se děje na 3. síťové vrstvě. Router vybírá cestu pro packety. Máme několik způsobů směrování:
+Směrování se děje na 3. síťové vrstvě. Router vybírá cestu pro [[Paket|pakety]]. Máme několik způsobů směrování:
 - [[Unicast]]
 - [[Multicast]]
 - [[Anycast]]

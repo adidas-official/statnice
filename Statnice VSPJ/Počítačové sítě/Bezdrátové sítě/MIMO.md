@@ -1,0 +1,1 @@
+Multiple Input Multiple Output. Využívá více antén pro lepší směrování k zařízením a využívá odrážení signálu od zdí.

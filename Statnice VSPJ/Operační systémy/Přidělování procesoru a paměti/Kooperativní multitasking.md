@@ -1,0 +1,1 @@
+Programátor musí psát kód tak, aby v kritické sekci po dokončení práce se sdíleným prostředkem proces prostředek zase uvolnil. Starší přístup používaný například ve Windows 3.1

@@ -1,0 +1,2 @@
+Podmínka řešení problému přístupu do [[Kritická sekce|kritické sekce]]. 
+Zakázaná oblast představuje nepřípustný stav systému, který porušuje vzájemné vyloučení - dva procesy se nacházejí ve svých kritických sekcích.

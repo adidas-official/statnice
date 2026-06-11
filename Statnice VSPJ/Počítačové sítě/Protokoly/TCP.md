@@ -5,7 +5,7 @@ Spolehlivý protokol, který zaručuje, že všechny pakety budou doručeny. Pok
 | <=   | SYN/ACK |
 | ACK  | =>      |
 | Data | =>      |
-Každý [[segment]] má své pořadové číslo a když přijdou všechny segmenty, transportní vrstva je poskládá zpět do celých dat a pošle vyšším vrstvám v [[OSI model|OSI modelu]].
+Každý [[Segment]] má své pořadové číslo a když přijdou všechny segmenty, transportní vrstva je poskládá zpět do celých dat a pošle vyšším vrstvám v [[OSI model|OSI modelu]].
 
 ---
 Zpět na [[Mapa protokolů]]

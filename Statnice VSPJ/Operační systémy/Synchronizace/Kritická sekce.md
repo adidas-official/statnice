@@ -1,0 +1,2 @@
+Část kódu, ve které proces přistupuje ke sdílenému prostředku. Proces si musí zajistit, aby s tímto prostředkem nikdo další nemohl manipulovat a neměl k němu přístup.
+Pokud tato situace nastane, říká se tomu [[Race condition (Souběh)]]. 

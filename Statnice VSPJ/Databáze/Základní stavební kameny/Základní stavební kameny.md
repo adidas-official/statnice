@@ -9,8 +9,8 @@ tags:
 Mezi základní stavební kameny konceptuálního modelování patří:
 
 - [[Entita]] – reprezentace objektů reálného světa.
-- [[Relace]] – vztah mezi entitami.
+- [[Databáze/Základní stavební kameny/Relace]] – vztah mezi entitami.
+- [[Integritní omezení]]
 - [[Arita]] – počet entit v relaci.
-- [[Kardinalita]] – vyjádření omezení počtu instancí ve vztahu (např. 1:1, 1:N, M:N).
 
 Zpět na [[Databázové systémy]].

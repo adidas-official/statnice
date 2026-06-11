@@ -1,0 +1,1 @@
+Proces Control Block. [[Datová struktura]] v operačním systému, která uchovává informace o běžícím procesu - například: čítač instrukcí, stav procesu, registry procesoru nebo informace o paměti.

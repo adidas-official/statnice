@@ -1,0 +1,5 @@
+- Selekce - Vyber řádky pomocí WHERE
+- Projekce - Urči sloupce podle názvu (select id, name, ...)
+- Kartézský součin (CROSS JOIN)
+- Přirozené spojení (INNER JOIN - spojí pomocí sloupce stejného názvu v obou tabulkách)
+- Množinové operace (UNION, INTERSECT, EXCEPT)

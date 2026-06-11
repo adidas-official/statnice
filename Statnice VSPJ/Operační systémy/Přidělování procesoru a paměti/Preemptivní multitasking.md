@@ -1,0 +1,1 @@
+Operační systém sám přiděluje, jak dlouho bude proces mít přístup ke sdílenému procesu. Pokud se objeví proces s vyšší prioritou, OS procesu násilně odebere přístup k prostředku. Nový stabilnější přístup.

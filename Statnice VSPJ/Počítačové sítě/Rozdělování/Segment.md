@@ -1,0 +1,5 @@
+- Rozdělení dat na menší kousky, když je nejde poslat na jednou - [[Segmentace]].
+- Probíhá na 4.vrstvě (Transportní), jednotlivé segmenty se očíslují a přidá se k nim [[TCP]] hlavička. 
+- TCP hlavička je **číslo odchozího portu a číslo segmentu**
+- Segment se předá o vrstvu níž, do síťové vrstvy.
+- **Segment = Data z aplikace + TCP hlavička**

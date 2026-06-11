@@ -6,7 +6,7 @@ tags:
 ---
 # Arita
 
-Počet entit, které mezi sebou mají definovanou [[Relace|relaci]] (např. binární relace spojuje dvě entity).
+Počet entit, které mezi sebou mají definovanou [[Databáze/Základní stavební kameny/Relace|relaci]] (např. binární relace spojuje dvě entity). Je to vlastnost relace.
 
 ![[Pasted image 20260529091921.png|697]]
 <p style="text-align: center;">Zdroj <a href="https://www.geeksforgeeks.org/dbms/degree-of-relations-in-dbms">geeksforgeeks.org</a></p>
