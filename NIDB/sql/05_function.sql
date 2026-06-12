@@ -13,3 +13,4 @@ BEGIN
 END;
 $$;
 	
+SELECT set_email();

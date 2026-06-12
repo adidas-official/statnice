@@ -25,4 +25,5 @@ END;
 $$;
 
 SELECT set_random_amounts();
+UPDATE employee SET balance = (FLOOR(RANDOM() * 1000) + 1)::INT;
 
